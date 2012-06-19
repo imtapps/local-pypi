@@ -2,7 +2,7 @@
 # update-rc.d localpypi defaults <- to run on startup
 
 PIDFILE=localpypi.pid
-INSTALLDIR=/opt/localpypi
+INSTALL_DIR=/opt/localpypi
 EGG_DIR=~/Dropbox/eggs
 LOCALPYPI_OPTS="--passwords=$INSTALL_DIR/.pypipass $EGG_DIR"
 
