@@ -1,3 +1,4 @@
 pypiserver
+gunicorn
 passlib
 
