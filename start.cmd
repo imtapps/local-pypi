@@ -1,0 +1,1 @@
+C:\www\local-pypi\virtualenv\Scripts\python C:\www\local-pypi\virtualenv\Scripts\pypi-server -p 8888 C:\Users\Appsteam\Dropbox\eggs
