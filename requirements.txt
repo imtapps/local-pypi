@@ -1,4 +1,4 @@
-pypiserver
-gunicorn
+pypiserver==0.6.0
+gunicorn=0.14.6
 passlib
 
